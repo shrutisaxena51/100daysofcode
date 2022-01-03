@@ -5,4 +5,4 @@
 
 ---
 
-* <b>Day 1:</b> 
+* <p><b>Day 1:</b>  <a href="https://github.com/shrutisaxena51/100daysofcode/tree/main/Day1"> Working with Variables in Python and string example
